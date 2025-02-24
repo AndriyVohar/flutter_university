@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Andrii Vohar",
+      "phoneNumber": "+380931234567",
+      "address": "Mukachevo",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJ04H9jaKTBfLYUJZ9q5ux8XXd9lqVhl6ZXoUeTdGSOotDhrr8d=s192-c-mo"
+    },
+    {
+      "id": 2,
+      "name": "Andrii Bryla",
+      "phoneNumber": "+380931234567",
+      "address": "Uzhhorod",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIOhxn-jV8mnRqdOhWnwyMldL97C_k0oiQTP7Y8aEXWzGnocRc=s192-c-mo"
+    },
+    {
+      "id": 3,
+      "name": "Ruslana Novikova",
+      "phoneNumber": "+380931234567",
+      "address": "Mariupol",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocILOjjlKa5kNeywGOeLB7nFxCrYb7faDUAROlh1QllO8wq3I3Vc=s192-c-mo"
+    }
+  ]
+}
