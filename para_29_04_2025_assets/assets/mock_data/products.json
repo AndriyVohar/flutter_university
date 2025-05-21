@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Washing Machine",
+      "image": "https://m.media-amazon.com/images/I/61i2NPJ-b-L.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Refrigerator",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQOTE9DjddcCZwlpzwv4I22NjcE_d9iYDmwA&s"
+    },
+    {
+      "id": 3,
+      "name": "Microwave Oven",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6Bu9mDdhLphdGSu5CngrmKPbS4UhoxM9mg&s"
+    },
+    {
+      "id": 4,
+      "name": "Dishwasher",
+      "image": "https://www.bhg.com/thmb/tKVp1Wbv3CBO3_lcwFMOUGrol0Q=/fit-in/1500x1000/filters:no_upscale():strip_icc()/whirlpool-large-capacity-dishwasher-with-third-rack-8b8920e62a9b4f65983a788005d8d869.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Air Conditioner",
+      "image": ""
+    }
+  ]
+}
